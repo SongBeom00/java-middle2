@@ -1,11 +1,11 @@
-package src.collection.array;
+package src.collection.link;
 
-import java.util.Arrays;
 
-public class MyArrayListV1Main {
+
+public class MyLinkedListV1Main {
 
     public static void main(String[] args) {
-        MyArrayListV1 list = new MyArrayListV1();
+        MyLinkedListV1 list = new MyLinkedListV1();
         System.out.println("==데이터 추가==");
         System.out.println("list = " + list);
         list.add("a");
