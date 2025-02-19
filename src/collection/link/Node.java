@@ -3,7 +3,7 @@ package src.collection.link;
 public class Node {
 
     Object item;
-    Node next;
+    Node next; //다음 노드 참조
 
     public Node(Object item) {
         this.item = item;
