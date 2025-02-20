@@ -17,6 +17,5 @@ public class MyLinkedListV3Main {
         System.out.println("integer = " + integer);
 
 
-
     }
 }
