@@ -13,10 +13,17 @@ public class SetOperationsTest {
 
         union.addAll(set2);
         System.out.println("합집합 = " + union);
-        set1.retainAll(set2);
-        System.out.println("공집합 = " + set1);
-        union.removeAll(set2);
-        System.out.println("차집합 = " + union);
+
+        Set<Integer> intersection = new HashSet<>(set1);
+
+        intersection.retainAll(set2);
+
+        Set<Integer> difference = new HashSet<>(set1);
+        difference.removeAll(set2);
+
+        System.out.println("합집합 = " + union);
+        System.out.println("교집합 = " + intersection);
+        System.out.println("차집합 = " + difference);
 
 
     }
