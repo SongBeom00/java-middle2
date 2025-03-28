@@ -1,6 +1,6 @@
-package src.collection.set;
+package collection.set;
 
-import src.collection.set.member.Member;
+import collection.set.member.Member;
 
 public class JavaHashCodeMain {
 

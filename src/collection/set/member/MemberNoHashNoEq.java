@@ -1,4 +1,4 @@
-package src.collection.set.member;
+package collection.set.member;
 
 /**
  * HashCode랑 equals 를 쓰지 않고 Object 가 제공하는 기능을 사용합니다.

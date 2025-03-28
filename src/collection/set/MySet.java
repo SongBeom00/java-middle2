@@ -1,4 +1,4 @@
-package src.collection.set;
+package collection.set;
 
 public interface MySet <E>{
     boolean add(E element);

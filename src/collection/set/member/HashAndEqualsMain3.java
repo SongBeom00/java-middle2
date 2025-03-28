@@ -1,6 +1,6 @@
-package src.collection.set.member;
+package collection.set.member;
 
-import src.collection.set.MyHashSetV2;
+import collection.set.MyHashSetV2;
 
 public class HashAndEqualsMain3 {
 

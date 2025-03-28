@@ -1,4 +1,4 @@
-package src.collection.set.javaset;
+package collection.set.javaset;
 
 import java.util.*;
 

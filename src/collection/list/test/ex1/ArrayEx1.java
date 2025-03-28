@@ -1,4 +1,4 @@
-package src.collection.list.test.ex1;
+package collection.list.test.ex1;
 
 public class ArrayEx1 {
     public static void main(String[] args) {

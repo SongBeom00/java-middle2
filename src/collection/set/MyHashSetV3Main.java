@@ -1,4 +1,4 @@
-package src.collection.set;
+package collection.set;
 
 public class MyHashSetV3Main {
 

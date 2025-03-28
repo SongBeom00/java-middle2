@@ -1,4 +1,4 @@
-package src.collection.set.test;
+package collection.set.test;
 
 import java.util.HashSet;
 import java.util.List;

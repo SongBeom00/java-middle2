@@ -1,4 +1,4 @@
-package src.collection.array;
+package collection.array;
 
 public class MyArrayListV3Main {
 

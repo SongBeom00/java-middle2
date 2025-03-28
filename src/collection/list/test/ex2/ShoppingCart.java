@@ -1,4 +1,4 @@
-package src.collection.list.test.ex2;
+package collection.list.test.ex2;
 
 import java.util.ArrayList;
 
@@ -6,7 +6,6 @@ public class ShoppingCart {
 
     ArrayList<Item> cartList = new ArrayList<>();
     int total = 0;
-
 
     public void addItem(Item item) {
         cartList.add(item);

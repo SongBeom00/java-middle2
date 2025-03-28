@@ -1,4 +1,4 @@
-package src.collection.link;
+package collection.link;
 
 public class MyLinkedListV3Main {
     public static void main(String[] args) {
